@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-mega-flow-toolkit-run-96l",
+  "version": "1.0.0",
+  "description": "Deployment and CI/CD automation",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "mega-flow-toolkit-run-96l"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-mega-flow-toolkit-run-96l.git"
+  }
+}
